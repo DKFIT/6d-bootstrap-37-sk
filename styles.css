@@ -1,0 +1,9 @@
+.container {
+    height: 100vh;
+}
+.customaukstis{
+    height: calc(100% /3 ) ;
+}
+border{
+    border-style: solid; border-color: rgb(47, 150, 82); 
+}
